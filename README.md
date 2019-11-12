@@ -34,7 +34,7 @@ To start, open up the **school.py** file in your text editor of choices such as 
 
 
 ```python
-%load_ext autoreload
+%reload_ext autoreload
 %autoreload 2
 ```
 
@@ -162,3 +162,8 @@ school.sort_roster()
 
 ## Summary
 In this lab, you continued to pracitce OOP, designing a more complex domain model using a School class with a few instance methods and variables. Soon you'll see that domain models can use other classes, instance methods, and instance variables to create more functionality in your programs.
+
+
+```python
+
+```
